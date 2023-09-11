@@ -6,6 +6,7 @@ A music enthusiast diving into the world of IT, fusing rhythm and code. 🎵💻
 As an experienced technical support professional, I possess a strong background in SQL and Python, along with some knowledge of Java. My expertise lies in troubleshooting and resolving technical issues related to software and databases. With a deep understanding of SQL, I can efficiently handle data-related challenges and optimize database performance. Additionally, my proficiency in Python allows me to automate processes and develop effective solutions for diverse technical problems.
 
 ##Skills
+</br>
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
@@ -20,7 +21,7 @@ As an experienced technical support professional, I possess a strong background 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
-
+</br>
 [<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img height="30" src="https://img.shields.io/badge/-Medium-%23000?style=for-the-badge&logo=medium&logoColor=white" />][medium]
